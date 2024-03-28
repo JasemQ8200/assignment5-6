@@ -1,5 +1,4 @@
-# 1.    Desi
-gn the pseudocode of the Euclidean Algorithm.
+# 1.    Design the pseudocode of the Euclidean Algorithm.
 
 # ANSWER:
 
