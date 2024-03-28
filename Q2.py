@@ -6,7 +6,7 @@
 
 def euclidean_algorithm(a, b):
     """
-    Calculating the greatest common divisor (GCD) of two integers using the Euclidean Algorithm.
+    Applying the Euclidean Algorithm to determine the greatest common divisor (GCD) of two integers.
 
     Args:
         a (int): First integer.
