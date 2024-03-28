@@ -1,0 +1,16 @@
+# 1.    Desi
+gn the pseudocode of the Euclidean Algorithm.
+
+# ANSWER:
+
+Function EuclideanAlgorithm(a, b):
+    # While b is not equal to 0, continue the loop
+    while b != 0 do
+        # Storing the current value of b in a temporary variable
+        temp = b
+        # Updating b to the remainder when a is divided by b
+        b = a % b
+        # Updating a to the previous value of b
+        a = temp
+    # Once b becomes 0, return the final value of a which is the GCD
+    return a
